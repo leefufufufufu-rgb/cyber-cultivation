@@ -22,14 +22,10 @@
 
 ---
 
-一个终端修仙游戏，将你使用 Claude Code 编程时的 Token 消耗转化为修仙进度。
-
-A terminal RPG that transforms your Claude Code sessions into a cultivation experience.
-
-> **⚠️ 仅支持 Claude Code 自动追踪 Token / Only Claude Code auto-tracking is supported.**
-> 
-> 灵气来源于真实的 Claude Code 对话记录，防作弊机制确保无法手动伪造。
-> Spirit energy comes from real Claude Code transcripts — anti-cheat prevents fabrication.
+<div align="center">
+<img src="screenshot.png" alt="CyberCultivation Meditation TUI" width="700">
+<p><em>打坐修炼 — 灵宠陪伴，天地灵气向你汇聚</em></p>
+</div>
 
 ---
 
